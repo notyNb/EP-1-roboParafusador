@@ -1,11 +1,12 @@
 # EP 1 - roboParafusador
 EP1 - Alg &amp; Prog - Python
 
+Código completo!
 
 Exercício programa - 1
 Algorítimos e Programação.
 
-Descrição da atividade:
+------------------------------------DESCRIÇÃO DA ATIVIDADE------------------------------------
 
 Algoritmos e Programação I
 Exercício Programa 1 - Robô Parafusador
